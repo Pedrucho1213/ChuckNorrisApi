@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">ChuckNorrisApi</string>
+    <string name="title_jokes">Chuck Norris Jokes</string>
+    <string name="category_all">All</string>
+    <string name="action_random">Get Random joke</string>
+    <string name="action_search">Search</string>
+    <string name="search_hint">Type at least 3 chars</string>
+    <string name="error_min_query">Write at least 4 characters</string>
+    <string name="error_network">No internet connection</string>
+    <string name="error_server">Server error</string>
+    <string name="error_unknown">Unexpected error</string>
 </resources>
